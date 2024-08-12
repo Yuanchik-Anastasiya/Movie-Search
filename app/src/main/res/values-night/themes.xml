@@ -1,7 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.SearchEngine" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <style name="Base.Theme.SearchEngine" parent="Theme.MaterialComponents">
+
+        <item name="colorPrimary">#990505</item>
+        <item name="colorPrimaryDark">#CC4902</item>
+        <item name="colorAccent">#2606F5</item>
+
     </style>
+
+    <style name="Theme.SearchEngine" parent="Base.Theme.SearchEngine"/>
 </resources>
