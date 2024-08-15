@@ -1,8 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.SearchEngine" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.SearchEngine" parent="Theme.MaterialComponents.Light">
+
+            <item name="colorPrimary">#7b0599</item>
+            <item name="colorPrimaryDark">#DCA4EA</item>
+            <item name="colorAccent">#08B6F5</item>
+
+
     </style>
 
     <style name="Theme.SearchEngine" parent="Base.Theme.SearchEngine" />

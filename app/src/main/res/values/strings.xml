@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Search engine</string>
+    <string name="link">Изображение предоставлены: https://yandex.ru/images/search?from=tabbar/img_url=https%3A%2F%2Fsun9-6.userapi.com%2Fimpg%2Fc855128%2Fv855128699%2F1bb44a%2FA6EpI11QgLA.jpg%3Fsize%3D563x807%26quality%3D96%26sign%3D72bd6b25bf29effcfcbb9bb41833857e%26c_uniq_tag%3DlzqqjeERy-rpmvvI91teecOmQWMFVj5qMQL4c37L03E%26type%3Dalbum/lr=213/p=1/pos=0/rpt=simage/text=постеры%20к%20фильмам</string>
+    <string name="click_menu">МЕНЮ</string>
+    <string name="click_favourites">ИЗБРАННОЕ</string>
+    <string name="click_watch_it_later">ПОСМОТРЕТЬ ПОЗЖЕ</string>
+    <string name="click_compilation">ПОДБОРКА</string>
+    <string name="clikc_settings">НАСТРОЙКА</string>
 </resources>
