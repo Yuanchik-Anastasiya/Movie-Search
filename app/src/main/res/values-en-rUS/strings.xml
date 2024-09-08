@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Search engine</string>
+    <string name="link">Image provided: https://yandex.ru/images/search?from=tabbar/img_url=https%3A%2F%2Fsun9-6.userapi.com%2Fimpg%2Fc855128%2Fv855128699%2F1bb44a%2FA6EpI11QgLA.jpg%3Fsize%3D563x807%26quality%3D96%26sign%3D72bd6b25bf29effcfcbb9bb41833857e%26c_uniq_tag%3DlzqqjeERy-rpmvvI91teecOmQWMFVj5qMQL4c37L03E%26type%3Dalbum/lr=213/p=1/pos=0/rpt=simage/text=постеры%20к%20фильмам</string>
+    <string name="click_menu">MENU</string>
+    <string name="click_favourites">FAVOURITES</string>
+    <string name="click_watch_it_later">WATCH IT LATER</string>
+    <string name="click_compilation">COMPILATION</string>
+    <string name="click_settings">SETTINGS</string>
+    <string name="settings">Settings</string>
+    <string name="favourites">Favourites</string>
+    <string name="watch_it_later">Watch It Later</string>
+    <string name="compilation">Compilation</string>
+    <string name="title_venom">Venom: The last dance</string>
+    <string name="description_venom">Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie\'s last dance.</string>
+    <string name="title_beekeeper">The Beekeeper</string>
+    <string name="description_beekeeper">A kind-hearted landlady commits suicide after falling victim to a phishing scam, leading former \"Beekeeper\" operative Adam Clay to set out on a brutal campaign for revenge upon those responsible.</string>
+    <string name="title_despicable_me">Despicable Me 4</string>
+    <string name="description_despicable_me">Gru, Lucy, Margo, Edith, and Agnes welcome a new member to the family, Gru Jr., who is intent on tormenting his dad. Gru faces a new nemesis in Maxime Le Mal and his girlfriend Valentina, and the family is forced to go on the run.</string>
+    <string name="title_alien">Alien: Romulus</string>
+    <string name="description_alien">While scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form in the universe.</string>
+    <string name="title_puzzle">Inside Out 2</string>
+    <string name="description_puzzle">A sequel that features Riley entering puberty and experiencing brand new, more complex emotions as a result. As Riley tries to adapt to her teenage years, her old emotions try to adapt to the possibility of being replaced.</string>
+    <string name="title_bad_guys">Bad Boys: Ride or Die</string>
+    <string name="discription_bad_guys">When their late police captain gets linked to drug cartels, wisecracking Miami cops Mike Lowrey and Marcus Burnett embark on a dangerous mission to clear his name.</string>
+    <string name="title_planet_of_the_apes">Kingdom of the Planet of the Apes</string>
+    <string name="discription_planet_of_the_apes">Many years after the reign of Caesar, a young ape goes on a journey that will lead him to question everything he\'s been taught about the past and make choices that will define a future for apes and humans alike.</string>
+</resources>

@@ -1,9 +1,29 @@
 <resources>
-    <string name="app_name">Search engine</string>
     <string name="link">Изображение предоставлены: https://yandex.ru/images/search?from=tabbar/img_url=https%3A%2F%2Fsun9-6.userapi.com%2Fimpg%2Fc855128%2Fv855128699%2F1bb44a%2FA6EpI11QgLA.jpg%3Fsize%3D563x807%26quality%3D96%26sign%3D72bd6b25bf29effcfcbb9bb41833857e%26c_uniq_tag%3DlzqqjeERy-rpmvvI91teecOmQWMFVj5qMQL4c37L03E%26type%3Dalbum/lr=213/p=1/pos=0/rpt=simage/text=постеры%20к%20фильмам</string>
     <string name="click_menu">МЕНЮ</string>
     <string name="click_favourites">ИЗБРАННОЕ</string>
     <string name="click_watch_it_later">ПОСМОТРЕТЬ ПОЗЖЕ</string>
     <string name="click_compilation">ПОДБОРКА</string>
-    <string name="clikc_settings">НАСТРОЙКА</string>
+    <string name="click_settings">НАСТРОЙКА</string>
+    <string name="settings">Настройки</string>
+    <string name="favourites">Избранное</string>
+    <string name="watch_it_later">Посмотреть позже</string>
+    <string name="compilation">Подборки</string>
+    <string name="title_venom">Веном: Последний танец</string>
+    <string name="description_venom">Эдди и Веном в бегах. Преследуемые обоими мирами и с приближающейся сетью, дуэт вынужден принять сокрушительное решение, которое опустит занавес над последним танцем Венома и Эдди.</string>
+    <string name="title_beekeeper">Пчеловод</string>
+    <string name="description_beekeeper">Добросердечная домовладелица совершает самоубийство, став жертвой фишинговой аферы, что заставляет бывшего сотрудника \"Пасечника\" Адама Клея начать жестокую кампанию по отмщению виновным.</string>
+    <string name="title_despicable_me">Гадкий я 4</string>
+    <string name="description_despicable_me">Грю, Люси, Марго, Эдит и Агнес приветствуют нового члена семьи, Грю-младшего, который намерен мучить своего отца. Грю сталкивается с новым заклятым врагом в лице Максима Ле Маля и его подруги Валентины, и семья вынуждена податься в бега.</string>
+    <string name="title_alien">Чужой: Ромул</string>
+    <string name="description_alien">Исследуя недра заброшенной космической станции, группа молодых космических колонистов сталкивается лицом к лицу с самой ужасающей формой жизни во Вселенной.</string>
+    <string name="title_puzzle">Головоломка 2</string>
+    <string name="description_puzzle">Продолжение, в котором Райли вступает в период полового созревания и в результате испытывает совершенно новые, более сложные эмоции. Пока Райли пытается приспособиться к своему подростковому возрасту, ее старые эмоции пытаются приспособиться к возможности их замены.</string>
+    <string name="title_bad_guys">Плохие парни до конца</string>
+    <string name="discription_bad_guys">Когда их покойный капитан полиции оказывается связанным с наркокартелями, остроумные копы Майами Майк Лоури и Маркус Бернетт отправляются на опасную миссию, чтобы очистить его имя.</string>
+    <string name="title_planet_of_the_apes">Планета обезьян: Новое царство</string>
+    <string name="discription_planet_of_the_apes">Спустя много лет после правления Цезаря молодая обезьяна отправляется в путешествие, которое заставит ее подвергнуть сомнению все, чему ее учили о прошлом, и сделать выбор, который определит будущее как обезьян, так и людей.</string>
+    <string name="app_name">Поисковик</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
