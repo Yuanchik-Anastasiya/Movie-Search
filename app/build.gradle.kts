@@ -1,3 +1,5 @@
+import org.gradle.kotlin.dsl.accessors.runtime.extensionOf
+
 plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.jetbrains.kotlin.android)
@@ -6,6 +8,8 @@ plugins {
 android {
     namespace = "com.yuanchik.myapplication"
     compileSdk = 34
+
+
 
     defaultConfig {
         applicationId = "com.yuanchik.myapplication"
@@ -17,7 +21,10 @@ android {
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
+
     buildTypes {
+
+
         release {
             isMinifyEnabled = false
             proguardFiles(
@@ -33,7 +40,12 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+
+    buildFeatures {
+        viewBinding = true
+    }
 }
+
 
 dependencies {
 
